@@ -380,7 +380,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: 嘉桥
   count: false
   # hide comments (visitors need to click to load the comments)
